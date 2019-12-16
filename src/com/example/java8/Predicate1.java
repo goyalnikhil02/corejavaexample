@@ -1,7 +1,7 @@
 package com.example.java8;
 
 import java.util.function.Predicate;
-
+//nikhil
 interface Pr{
 	boolean testing(int i);
 }
